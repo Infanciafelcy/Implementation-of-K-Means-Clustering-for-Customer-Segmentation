@@ -73,7 +73,7 @@ plt.title("Customer Segments")
 
 ```
 ## Output:
-Dataset:
+## Dataset:
 ![image](https://github.com/user-attachments/assets/fd00d76a-62bd-4daf-b02b-32afd72b533f)
 
 ## Dataset Information:
